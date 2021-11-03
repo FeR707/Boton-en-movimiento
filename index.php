@@ -13,6 +13,7 @@
             cursor: pointer;
             color: black;
             background-color: coral;
+            border-radius: 10px;
         }
     </style>
 </head>
