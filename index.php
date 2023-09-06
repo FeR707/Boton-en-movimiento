@@ -20,6 +20,7 @@
 <body>
     <div>
         <h1>¿Quieres ser mi novia?</h1>
+        <h1>XD</h1>
         <button class="boton" id="btn-si" onclick="loSabia()">Si</button>
         <button class="boton" id="btn-no" style="position: absolute;">No</button>
     </div>
